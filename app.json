@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ReUse",
+    "slug": "reuse-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "reuse",
+    "userInterfaceStyle": "light",
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-router"]
+  }
+}
