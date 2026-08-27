@@ -54,5 +54,4 @@ npm install
 npm run web
 ```
 
-## GitHub
-Adicione aqui o link público do repositório antes da entrega.
+
