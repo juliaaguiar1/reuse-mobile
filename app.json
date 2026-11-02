@@ -1,12 +1,12 @@
 {
   "expo": {
     "name": "ReUse",
-    "slug": "reuse-app",
-    "version": "1.0.0",
+    "slug": "reuse-mobile",
+    "version": "2.0.0",
     "orientation": "portrait",
     "scheme": "reuse",
     "userInterfaceStyle": "light",
-    "web": { "bundler": "metro" },
-    "plugins": ["expo-router"]
+    "web": {"bundler": "metro"},
+    "plugins": ["expo-router", ["expo-camera", {"cameraPermission": "Permita que o ReUse use a câmera para fotografar produtos que você deseja anunciar."}]]
   }
 }

@@ -1,0 +1,12 @@
+FASE 3 — INTEGRAÇÃO, AUTENTICAÇÃO E CACHE
+[IMPLEMENTADO] API pública DummyJSON GET /products — catálogo, busca, detalhes, imagens, categorias.
+[IMPLEMENTADO] POST /auth/login e GET /auth/me — autenticação demonstrativa e verificação de sessão.
+[IMPLEMENTADO] Proteção da tela Anunciar; Perfil com estado autenticado; sair da conta.
+[IMPLEMENTADO] Sessão demonstrativa restaurada do AsyncStorage.
+[IMPLEMENTADO] Cache de produtos com validade de 6 horas, atualização manual e fallback offline.
+[IMPLEMENTADO] Preservados favoritos, anúncios, câmera e última foto da Fase 2.
+[PARA TESTAR] npm install && npm run typecheck && npx expo start.
+[PARA TESTAR] API online, login, logout, reinício, falha de conexão e câmera no Expo Go.
+[PARA ENTREGAR] Capturas de tela, PDF explicativo, commit/push no repositório original.
+OBS: DummyJSON é API de demonstração; não existem anúncios/vendedores reais.
+OBS: Tokens de demonstração são armazenados no AsyncStorage; em produção usar armazenamento seguro.

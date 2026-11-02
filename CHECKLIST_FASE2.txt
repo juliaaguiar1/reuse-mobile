@@ -1,0 +1,11 @@
+CRITÉRIOS DA FASE 2
+[OK] Telas React Native: Início, Explorar, Detalhes, Anunciar, Favoritos e Perfil
+[OK] UI/UX mobile aprimorada
+[OK] Async Storage: favoritos, anúncios e última foto
+[OK] Câmera: foto do produto na criação de anúncio
+[OK] Navegação entre telas
+[OK] README atualizado
+[ ] Testar câmera em dispositivo físico / Expo Go
+[ ] Gerar prints de TODAS as telas
+[ ] Atualizar GitHub com esta fase
+[ ] Montar PDF final com os 4 itens exigidos
